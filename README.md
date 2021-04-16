@@ -51,7 +51,7 @@
 
 
 
-### Connect with me 📫
+### Connect with me 📨
 <p align="center">
 <a href="https://twitter.com/Science10S"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mohamad-osman-60224b1a4"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" /></a>
