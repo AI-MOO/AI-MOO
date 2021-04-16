@@ -1,4 +1,4 @@
-### Welcome to my area👋 
+### Welcome to my profile 👋 
 ![](https://komarev.com/ghpvc/?username=AI-MOO&color=brightgreen)
 
 <!--
