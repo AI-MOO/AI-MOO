@@ -16,7 +16,7 @@
 ### Languages:
 
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026129-caec5380-9eca-11eb-86cd-faef1218fd80.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115037779-7e5b4500-9ed7-11eb-9bd8-f2bb73312427.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115037886-a21e8b00-9ed7-11eb-92ce-19d31f7b85a2.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115029255-7a76f500-9ece-11eb-8e98-93379f1dacfa.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115029106-50bdce00-9ece-11eb-8daa-b2d6079755f1.png"></code>
 
