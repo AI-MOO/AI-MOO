@@ -11,7 +11,18 @@
 - 💬 Ask me about AI , IoT , Electrical Engineering.
 - 📫 How to reach me: @science10s
 - 😄 Pronouns: His/He
-- 🍕 Fun fact: I like Pizza 
+
+**Languages and Tools:**  
+<code><img height="20" src=""></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+<a href="https://github.com/iampawan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AI-MOO&show_icons=true&theme=light&line_height=30" alt="Pawan's github stats"/>
+</a>
 
 
 ### Connect with me 📫
@@ -20,5 +31,7 @@
 <a href="https://www.linkedin.com/in/mohamad-osman-60224b1a4"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/AI-MOO"><img src="https://img.shields.io/badge/Github-%23323131.svg?&logo=github&logoColor=white" /></a>
 </p>
+
+
 
 
