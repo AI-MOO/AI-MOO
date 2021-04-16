@@ -15,8 +15,7 @@
 **Languages and Tools:**
 
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026129-caec5380-9eca-11eb-86cd-faef1218fd80.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115029049-3e439480-9ece-11eb-84af-402b6d2cfa95.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115029049-3e439480-9ece-11eb-84af-402b6d2cfa95.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115029255-7a76f500-9ece-11eb-8e98-93379f1dacfa.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115029106-50bdce00-9ece-11eb-8daa-b2d6079755f1.png"></code>
 
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115025882-8b256c00-9eca-11eb-98fc-9f75f389fc03.png"></code>
@@ -54,7 +53,6 @@
 <a href="https://www.linkedin.com/in/mohamad-osman-60224b1a4"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/AI-MOO"><img src="https://img.shields.io/badge/Github-%23323131.svg?&logo=github&logoColor=white" /></a>
 </p>
-
 
 
 
