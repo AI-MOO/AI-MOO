@@ -45,8 +45,8 @@
 
 
 
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AI-MOO&show_icons=true&theme=light&line_height=30" alt="Pawan's github stats"/>
+<a href="https://github.com/AI-MOO">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AI-MOO&show_icons=true&theme=light&line_height=30" alt="AI-MOO's github stats"/>
 </a>
 
 
