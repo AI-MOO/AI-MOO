@@ -13,9 +13,14 @@
 - 😄 Pronouns: His/He
 
 **Languages and Tools:**
-<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026129-caec5380-9eca-11eb-86cd-faef1218fd80.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115025882-8b256c00-9eca-11eb-98fc-9f75f389fc03.png"></code>
- 
+
+<code><img height="20" src="https://user-images.githubusercontent.com/67054356/115026129-caec5380-9eca-11eb-86cd-faef1218fd80.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/67054356/115025882-8b256c00-9eca-11eb-98fc-9f75f389fc03.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/67054356/115026296-ff600f80-9eca-11eb-8e8d-3f13cd6eca90.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/67054356/115026359-130b7600-9ecb-11eb-876a-bb66a68a1d11.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/67054356/115026566-51a13080-9ecb-11eb-848c-1767a735c491.png"></code>
+
+
 
 <a href="https://github.com/iampawan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AI-MOO&show_icons=true&theme=light&line_height=30" alt="Pawan's github stats"/>
