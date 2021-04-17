@@ -49,8 +49,6 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/AI-MOO?style=social"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Science10s?style=social">
 
 
-
-
 <a href="https://github.com/AI-MOO"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AI-MOO&show_icons=true&theme=light&line_height=30" alt="AI-MOO's github stats"/></a>
 
 
@@ -58,6 +56,7 @@
 ### Connect with me 📬
 <p align="center">
 <a href="https://twitter.com/Science10S"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.kaggle.com/aiotmoo"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mohamad-osman-60224b1a4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/AI-MOO"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
