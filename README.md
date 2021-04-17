@@ -1,6 +1,7 @@
 ### WELCOME TO MY PROFILE 👋 
 ![](https://komarev.com/ghpvc/?username=AI-MOO&color=brightgreen)
 
+
 <!--
 **AI-MOO/AI-MOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -44,10 +45,13 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028658-cb3a1e00-9ecd-11eb-8c3e-3f3ff08f8bc6.png"></code>
 
 
+### Statistics:
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/AI-MOO?style=social">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Science10s?style=social">
 
-<a href="https://github.com/AI-MOO">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AI-MOO&show_icons=true&theme=light&line_height=30" alt="AI-MOO's github stats"/>
-</a>
+
+
+<a href="https://github.com/AI-MOO"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AI-MOO&show_icons=true&theme=light&line_height=30" alt="AI-MOO's github stats"/></a>
 
 
 
