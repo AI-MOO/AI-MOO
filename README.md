@@ -46,8 +46,8 @@
 
 
 ### Statistics:
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/AI-MOO?style=social">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Science10s?style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/AI-MOO?style=social"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Science10s?style=social">
+
 
 
 
