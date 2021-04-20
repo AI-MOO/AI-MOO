@@ -36,6 +36,7 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115027795-cde84380-9ecc-11eb-8b0c-c09574c30381.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115031856-4fda6b80-9ed1-11eb-854a-07b9741f7df2.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115027840-de002300-9ecc-11eb-9dc0-54c5b13f8ec1.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115393315-36dffc00-a1ea-11eb-86d9-b583bc938afa.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028040-1a338380-9ecd-11eb-986e-c66bb000cdc6.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115027898-f40de380-9ecc-11eb-985d-9b1ec5ab1b01.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115027978-0851e080-9ecd-11eb-99fd-bb9298477b39.png"></code>
@@ -64,3 +65,4 @@
 </p>
 
 
+![240px-Spyder_logo svg](https://user-images.githubusercontent.com/67054356/115393297-30ea1b00-a1ea-11eb-86cd-bfb80bef3908.png)
