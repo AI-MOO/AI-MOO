@@ -64,5 +64,3 @@
 <a href="https://github.com/AI-MOO"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-
-![240px-Spyder_logo svg](https://user-images.githubusercontent.com/67054356/115393297-30ea1b00-a1ea-11eb-86cd-bfb80bef3908.png)
