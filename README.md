@@ -11,6 +11,7 @@
 - 🤔 I’m looking for help with Web Development
 - 💬 Ask me about AI , IoT , Electrical Engineering.
 - 📫 How to reach me: <a href="https://twitter.com/Science10S">@science10s</a>
+- 😄 Pronouns: His/He
 
 
 ### Languages:
@@ -45,7 +46,7 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028658-cb3a1e00-9ecd-11eb-8c3e-3f3ff08f8bc6.png"></code>
 
 
-### Statistics:
+### Statistics 📊:
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/AI-MOO?style=social"> <a href="https://twitter.com/Science10S"><img src="https://img.shields.io/twitter/follow/Science10s?style=social" /></a>
 
@@ -53,6 +54,7 @@
 
 <a href="https://github.com/AI-MOO"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AI-MOO&show_icons=true&theme=light&line_height=30" alt="AI-MOO's github stats"/></a>
 
+### Connect with me 📬:
 
 <p align="center">
 <a href="https://twitter.com/Science10S"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
