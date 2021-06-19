@@ -9,7 +9,7 @@
 - ✨ I’m currently working on great AI & IoT projects 
 - 🌱 I’m currently learning Deep Learning, Web Development and more  
 - 🤔 I’m looking for help with Web Development
-- 💬 Ask me about AI , IoT , Electrical Engineering.
+- 💬 Ask me about AI , Data science, IoT , Electrical Engineering.
 - 📫 How to reach me: <a href="https://twitter.com/Science10S">@science10s</a>
 - 😄 Pronouns: His/He
 
