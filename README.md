@@ -11,7 +11,6 @@
 - 🤔 I’m looking for help with Web Development
 - 💬 Ask me about AI , Data science, IoT , Electrical Engineering.
 - 📫 How to reach me: <a href="https://twitter.com/Science10S">@science10s</a>
-- 😄 Pronouns: His/He
 
 
 ### Languages:
