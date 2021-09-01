@@ -16,6 +16,7 @@
 ### Languages:
 
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026129-caec5380-9eca-11eb-86cd-faef1218fd80.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/131630402-baa839b4-7c23-4fc7-86dd-4a34b555e725.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/122631212-c3b41280-d0d2-11eb-82f4-c51d11938cae.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/122631238-0544bd80-d0d3-11eb-94ca-96ee32084e89.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/122631264-44730e80-d0d3-11eb-9a35-e57a6af5792c.png"></code>
@@ -28,7 +29,6 @@
 ### Tools & Libraries:
 
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115025882-8b256c00-9eca-11eb-98fc-9f75f389fc03.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/67054356/131630211-ac28b522-e7a8-4e6e-a42b-6764cf819451.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026296-ff600f80-9eca-11eb-8e8d-3f13cd6eca90.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026359-130b7600-9ecb-11eb-876a-bb66a68a1d11.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026566-51a13080-9ecb-11eb-848c-1767a735c491.png"></code>
