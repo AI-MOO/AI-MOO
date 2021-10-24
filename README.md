@@ -13,7 +13,7 @@
 - 📫 How to reach me: <a href="https://twitter.com/Science10S">@science10s</a>
 
 
-### Languages:
+### Languages: 
 
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026129-caec5380-9eca-11eb-86cd-faef1218fd80.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/131630402-baa839b4-7c23-4fc7-86dd-4a34b555e725.png"></code>
