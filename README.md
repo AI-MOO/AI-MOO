@@ -50,7 +50,7 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028658-cb3a1e00-9ecd-11eb-8c3e-3f3ff08f8bc6.png"></code>
 
 
-### Statistics 📊:
+### Statistics 📊: 
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/AI-MOO?style=social"> <a href="https://twitter.com/Science10S"><img src="https://img.shields.io/twitter/follow/Science10s?style=social" /></a>
 
