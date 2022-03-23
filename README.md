@@ -1,11 +1,10 @@
 ### WELCOME TO MY PROFILE 👋 
-### Data Scientist 
 ![](https://komarev.com/ghpvc/?username=AI-MOO&color=brightgreen)
 
 <!--
 **AI-MOO/AI-MOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
-
+### Data Scientist 
 - ✨ I’m currently working on great AI & IoT projects.
 - 🌱 I’m currently learning Deep Learning, NLP and more  
 - 🤔 I’m looking for help with NLP.
