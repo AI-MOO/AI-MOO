@@ -1,5 +1,5 @@
 ### WELCOME TO MY PROFILE 👋 
-![](https://komarev.com/ghpvc/?username=AI-MOO&color=brightgreen) 
+![](https://komarev.com/ghpvc/?username=AI-MOO&color=brightgreen)
 <!-- 
 **AI-MOO/AI-MOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
