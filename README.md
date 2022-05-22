@@ -1,4 +1,11 @@
 ### WELCOME TO MY PROFILE 👋 
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Welcome+to+my+profile!;I+wish+find+it+useful!&center=true&size=30&color=1E7AC8">
+  </a>
+</h1>
+
 ![](https://komarev.com/ghpvc/?username=AI-MOO&color=brightgreen)
 <!-- 
 **AI-MOO/AI-MOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
