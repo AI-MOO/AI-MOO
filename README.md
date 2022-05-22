@@ -1,8 +1,8 @@
-### WELCOME TO MY PROFILE 👋 
+### This is Mohamad Osman :) 
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Welcome+to+my+profile!;I+wish+find+it+useful!&center=true&size=30&color=1E7AC8">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=>>+Welcome+to+my+profile+👋+!!;+>>+Hope+to+find+it+useful✨&center=true&size=30&color=57CA3A">
   </a>
 </h1>
 
