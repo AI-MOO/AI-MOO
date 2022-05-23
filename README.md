@@ -4,7 +4,7 @@
 <!-- 
 **AI-MOO/AI-MOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 --> 
-### Knowledge is power 💡!
+### `Knowledge is power 💡!`
 - ✨ I’m currently working on great AI & Data Science projects.
 - 🌱 I’m currently learning Data Engineering, NLP and more  
 - 🤔 I’m looking for help with Big Data.
