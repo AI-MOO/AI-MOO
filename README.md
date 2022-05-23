@@ -1,8 +1,4 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=>+Welcome+to+my+profile+👋+!;+>>+Hope+to+find+it+useful+✨+!&center=true&size=30&color=39A154">
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%3E%3E%3E+Welcome+to+my+profile+%F0%9F%91%8B!;%3E%3E%3E+Hope+to+find+it+useful%2B%E2%9C%A8)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=AI-MOO&color=brightgreen)
 <!-- 
