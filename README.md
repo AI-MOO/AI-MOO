@@ -4,14 +4,14 @@
 <!-- 
 **AI-MOO/AI-MOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 --> 
-### `KNOWLEDGE IS POWER 💡`
+#### `KNOWLEDGE IS POWER 💡`
 - ✨ I’m currently working on great AI & Data Science projects.
 - 🌱 I’m currently learning Data Engineering, NLP and more  
 - 🤔 I’m looking for help with Big Data.
 - 💬 Ask me about AI , Data science, IoT , Electrical Engineering.
 - 📫 How to reach me: <a href="https://twitter.com/Science10S">@science10s</a>
  
-### `Languages:`
+### Languages:
 
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026129-caec5380-9eca-11eb-86cd-faef1218fd80.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/131630402-baa839b4-7c23-4fc7-86dd-4a34b555e725.png"></code>
@@ -23,7 +23,7 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115029106-50bdce00-9ece-11eb-8daa-b2d6079755f1.png"></code>
 
 
-### `Tools & Libraries:` 
+### Tools & Libraries: 
 
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115025882-8b256c00-9eca-11eb-98fc-9f75f389fc03.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026296-ff600f80-9eca-11eb-8e8d-3f13cd6eca90.png"></code>
@@ -49,7 +49,7 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028658-cb3a1e00-9ecd-11eb-8c3e-3f3ff08f8bc6.png"></code>
 
  
-### `Statistics 📊:` 
+### Statistics 📊: 
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/AI-MOO?style=social"> <a href="https://twitter.com/Science10S"><img src="https://img.shields.io/twitter/follow/Science10s?style=social" /></a>
 
@@ -57,7 +57,7 @@
 
 <a href="https://github.com/AI-MOO"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AI-MOO&show_icons=true&theme=light&line_height=30" alt="AI-MOO's github stats"/></a>
 
-### `Connect with me 📬:`
+### Connect with me 📬:
 
 <p align="center">
 <a href="https://twitter.com/Science10S"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
