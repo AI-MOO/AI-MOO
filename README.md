@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=1A72B0&lines=%3E%3E%3E+Welcome+to+my+profile+%F0%9F%91%8B!;%3E%3E%3E+Hope+to+find+it+useful+%E2%9C%A8)](https://git.io/typing-svg)
 
-### `KNOWLEDGE IS POWER 💡` 
+#### `KNOWLEDGE IS POWER 💡` 
 - ✨ I’m currently working on great AI & Data Science projects.
 - 🌱 I’m currently learning Data Engineering, NLP and more  
 - 🤔 I’m looking for help with Big Data.
