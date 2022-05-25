@@ -4,16 +4,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=1A72B0&lines=%3E%3E%3E+Welcome+to+my+profile+%F0%9F%91%8B!;%3E%3E%3E+Hope+to+find+it+useful+%E2%9C%A8)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=AI-MOO&color=blue)
-
 #### `KNOWLEDGE IS POWER 💡` 
-
 - ✨ I’m currently working on great AI & Data Science projects.
 - 🌱 I’m currently learning Data Engineering, NLP and more  
 - 🤔 I’m looking for help with Big Data.
 - 💬 Ask me about AI , Data science, IoT , Electrical Engineering.
 - 📫 How to reach me: <a href="https://twitter.com/Science10S">@science10s</a>
- 
+
+
+
 ### Languages:
 
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026129-caec5380-9eca-11eb-86cd-faef1218fd80.png"></code>
@@ -53,7 +52,7 @@
 
  
 ### Statistics 📊: 
-
+![](https://komarev.com/ghpvc/?username=AI-MOO&color=blue)
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/AI-MOO?style=social"> <a href="https://twitter.com/Science10S"><img src="https://img.shields.io/twitter/follow/Science10s?style=social" /></a>
 
 <div>
