@@ -53,9 +53,14 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/AI-MOO?style=social"> <a href="https://twitter.com/Science10S"><img src="https://img.shields.io/twitter/follow/Science10s?style=social" /></a>
 
+<div>
+<a href="https://github.com/AI-MOO"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=AI-MOO&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=nord"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-MOO&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord" />
+</a>
+</div>
 
 
-<a href="https://github.com/AI-MOO"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AI-MOO&show_icons=true&theme=light&line_height=30" alt="AI-MOO's github stats"/></a>
+
 
 ### Connect with me 📬:
 
@@ -64,5 +69,5 @@
 <a href="https://www.kaggle.com/aiotmoo"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mohamad-osman-60224b1a4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://stackoverflow.com/users/15754086/mohamad-osman"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>  
-<a href="https://github.com/AI-MOO"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/AI-MOO"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
 </p>
