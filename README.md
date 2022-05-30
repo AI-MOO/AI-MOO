@@ -52,7 +52,7 @@
 
  
 ### Statistics 📊: 
-![](https://komarev.com/ghpvc/?username=AI-MOO&color=blue)
+![](https://komarev.com/ghpvc/?username=AI-MOO&color=blue) 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/AI-MOO?style=social"> <a href="https://twitter.com/Science10S"><img src="https://img.shields.io/twitter/follow/Science10s?style=social" /></a>
 
 <div>
