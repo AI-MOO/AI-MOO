@@ -12,7 +12,6 @@
 - 📫 How to reach me: <a href="https://twitter.com/Science10S">@science10s</a>
 
 
-
 ### Languages:
 
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026129-caec5380-9eca-11eb-86cd-faef1218fd80.png"></code>
