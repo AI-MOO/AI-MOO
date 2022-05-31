@@ -54,8 +54,8 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/AI-MOO?style=social"> <a href="https://twitter.com/Science10S"><img src="https://img.shields.io/twitter/follow/Science10s?style=social" /></a>
 
 <div>
-<a href="https://github.com/AI-MOO"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=AI-MOO&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=nord"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-MOO&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord" />
+<a href="https://github.com/AI-MOO"><img height="190px" src="https://github-readme-stats.vercel.app/api?username=AI-MOO&theme=nord"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-MOO&layout=compact&langs_count=8&theme=nord" />
 </a>
 </div>
 
