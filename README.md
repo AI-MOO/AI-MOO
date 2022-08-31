@@ -48,12 +48,22 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028555-ac3b8c00-9ecd-11eb-9577-02ce32d064f9.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028131-333c3480-9ecd-11eb-80ff-73741079df1e.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028658-cb3a1e00-9ecd-11eb-8c3e-3f3ff08f8bc6.png"></code>
- 
+
+<div align="center">
+
 ### Statistics 📊: 
+
 ![](https://komarev.com/ghpvc/?username=AI-MOO&color=blue) 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/AI-MOO?style=social"> <a href="https://twitter.com/Science10S"><img src="https://img.shields.io/twitter/follow/Science10s?style=social" /></a>
 
-<div>
+</div>
+
+
+
+<div align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AI-MOO&theme=nord&hide_border=true)](https://git.io/streak-stats)
+
 <a href="https://github.com/AI-MOO"><img height="190px" src="https://github-readme-stats.vercel.app/api?username=AI-MOO&theme=nord"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-MOO&layout=compact&langs_count=8&theme=nord" />
 </a>
@@ -62,6 +72,10 @@
 
 
 
+
+
+
+<div align="center">
 
 ### Connect with me 📬:
 
@@ -72,3 +86,5 @@
 <a href="https://stackoverflow.com/users/15754086/mohamad-osman"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>  
 <a href="https://github.com/AI-MOO"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
 </p>
+
+</div>
