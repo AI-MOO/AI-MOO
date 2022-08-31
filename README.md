@@ -52,16 +52,21 @@
 
 ### Statistics 📊: 
 
-<div align="center">
-
 ![](https://komarev.com/ghpvc/?username=AI-MOO&color=blue) 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/AI-MOO?style=social"> <a href="https://twitter.com/Science10S"><img src="https://img.shields.io/twitter/follow/Science10s?style=social" /></a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AI-MOO&theme=nord&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
 
 <a href="https://github.com/AI-MOO"><img height="190px" src="https://github-readme-stats.vercel.app/api?username=AI-MOO&theme=nord"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-MOO&layout=compact&langs_count=8&theme=nord" />
 </a>
+
+</div>
+
+
+<div align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AI-MOO&theme=nord)](https://git.io/streak-stats)
 
 </div>
 
