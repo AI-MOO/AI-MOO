@@ -7,7 +7,7 @@
 #### `KNOWLEDGE IS POWER 💡` 
 - ✨ I’m currently working on great AI & Data Science projects using R & Python.
 - 🌱 I’m currently learning Data Engineering, NLP and more.  
-- 🤔 I’m looking for help with Big Data.
+- 🤔 I’m looking for help with Big Data. 
 - 💬 Ask me about AI , Data science, IoT , Electrical Engineering.
 - 📫 How to reach me: <a href="https://twitter.com/Science10S">@science10s</a>
 
