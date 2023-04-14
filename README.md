@@ -58,7 +58,7 @@
 <div align="center">
 
 <a href="https://github.com/AI-MOO"><img height="190px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AI-MOO&theme=nord"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AI-MOO&layout=compact&langs_count=8&theme=nord" />
+<img height="190px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AI-MOO&layout=compact&langs_count=8&theme=nord" />
 </a>
 
 </div>
