@@ -8,7 +8,7 @@
 - ✨ I’m currently working on great AI & Data Science projects using R & Python.
 - 🌱 I’m currently learning Deep Learning, NLP and more.  
 - 🤔 I’m looking for help with Big Data. 
-- 💬 Ask me about AI , Data science, IoT , Electrical Engineering.
+- 💬 Ask me about AI , Data science , Electrical Engineering.
 - 📫 How to reach me: <a href="https://twitter.com/Science10S">@science10s</a>
 
 
